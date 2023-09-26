@@ -8,7 +8,7 @@
 
 Welcome to my Github page! I am Tomandjerry1995 and I am Chemical engineering process engineer loving Programing!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Tomandjerry1995/Tomandjerry1995/blob/main/70135.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
