@@ -5,7 +5,7 @@ Thanks for froldanzafra's Readme, your homepage is so beautiful so i copy that! 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maoweixin1995@gmail.com)
 
-Welcome to my Github page! I am Tomandjerry1995 and I am Chemical engineering process engineer loving Programing!  
+Welcome to my Github page! I am Tomandjerry1995 and I am chemical engineering process engineer loving Programing!  
 
 <img align="right" alt="img" src="https://github.com/Tomandjerry1995/Tomandjerry1995/blob/main/70135.jpg" width="50%" height="auto" />
 
@@ -13,7 +13,8 @@ Welcome to my Github page! I am Tomandjerry1995 and I am Chemical engineering pr
 #### 🌱 Things I am currently working on: 
 - Start building my programing world structure  
 - Program as a chemical process engineer by VBA
-### Python-100-days(https://github.com/Tomandjerry1995/Python-100-Days)
+- Python-100-days
+  (https://github.com/Tomandjerry1995/Python-100-Days)
 - Harvard CS 50
 
 #### :muscle: Things I am challenging myself with:
