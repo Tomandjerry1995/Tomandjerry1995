@@ -26,10 +26,10 @@ Welcome to my Github page! I am Tomandjerry1995 and I am chemical engineering pr
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Tomandjerry1995&show_icons=true&hide_border=true" />
 
-https://github.com/Tomandjerry1995/Tomandjerry1995/blob/main/Aspen-Custom-Modeler-Logo.png
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></code>
-<code><img width="10%" src="https://github.com/Tomandjerry1995/Tomandjerry1995/blob/main/Aspen-Custom-Modeler-Logo.png"></code>
+
+<code><img width="10%" height="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" height="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></code>
+<code><img width="10%" height="10%" src="https://github.com/Tomandjerry1995/Tomandjerry1995/blob/main/Aspen-Custom-Modeler-Logo.png"></code>
 <br />
 <code><img width="10%" src="xxx"></code>
 <code><img width="10%" src="xxx"></code>
