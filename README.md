@@ -24,7 +24,7 @@ Welcome to my Github page! I am Tomandjerry1995 and I am chemical engineering pr
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Tomandjerry1995&show_icons=true&hide_border=true" />
 
 
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
