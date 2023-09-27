@@ -12,9 +12,9 @@ Welcome to my Github page! I am Tomandjerry1995 and I am chemical engineering pr
 
 #### 🌱 Things I am currently working on: 
 - Start building my programing world structure  
-- Program as a chemical process engineer by VBA
+- Program by VBA as a process engineer
 - [Python-100-days](https://github.com/Tomandjerry1995/Python-100-Days)
-- Harvard CS 50
+- [Harvard CS 50] (https://cs50.harvard.edu/x/2023/)
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
