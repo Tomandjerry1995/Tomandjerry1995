@@ -1,5 +1,5 @@
 ### Hi there 👋👋👋👋👋👋👋 This is Tomandjerry1995! 😊😊😊😊😊😊😊😊
-Thanks for froldanzafra's Readme, your homepage is so beautiful so i copy that! Thank you bro!
+Thanks for froldanzafra's Readme, so brilliant! Thank you bro!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Tomandjerry1995) 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
