@@ -16,6 +16,7 @@ Welcome to my Github page! I am Tomandjerry1995 and I am chemical engineering pr
 - [Python-100-days](https://github.com/jackfrued/Python-100-Days)
 - [Harvard CS 50](https://cs50.harvard.edu/x/2023/)
   - 24/1/6 C √
+  - 24/1/6 Arrays √
   - 24/1/7 Algorithm √
 
 #### :muscle: Things I am challenging myself with:
