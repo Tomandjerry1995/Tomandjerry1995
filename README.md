@@ -18,7 +18,7 @@ Welcome to my Github page! I am Tomandjerry1995 and I am chemical engineering pr
   - C 2416 √
   - Arrays 2416√
   - Algorithm 2417 √
-  - Memory27:14 24110 √  1:11:26 24111√
+  - Memory 24113√
 - Tools
   - [Overleaf](https://www.overleaf.com/project) 2415 √
   - [whimsica](https://whimsical.com/my-files-9rnjLJRKJSKRn97wGyiBq9) 2415 √
