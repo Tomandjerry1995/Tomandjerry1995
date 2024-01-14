@@ -19,6 +19,7 @@ Welcome to my Github page! I am Tomandjerry1995 and I am chemical engineering pr
   - Arrays 24/1/6√
   - Algorithm 24/1/7 √
   - Memory 24/1/13√
+  - python 24/1/14√
 - Tools
   - [Overleaf](https://www.overleaf.com/project) 24/1/5 √
   - [whimsica](https://whimsical.com/my-files-9rnjLJRKJSKRn97wGyiBq9) 24/1/5 √
