@@ -21,6 +21,7 @@ Welcome to my Github page! I am Tomandjerry1995 and I am chemical engineering pr
   - Memory 24/1/13√
   - python, AI 24/1/14√
   - data structure, 24/1/16√
+  - SQL, security, 24/1/20√
 - Tools
   - [Overleaf](https://www.overleaf.com/project) 24/1/5 √
   - [whimsica](https://whimsical.com/my-files-9rnjLJRKJSKRn97wGyiBq9) 24/1/5 √
