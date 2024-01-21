@@ -15,13 +15,8 @@ Welcome to my Github page! I am Tomandjerry1995 and I am chemical engineering pr
 - Program by VBA as a process engineer
 - [Python-100-days](https://github.com/jackfrued/Python-100-Days)
 - [Harvard CS 50](https://cs50.harvard.edu/x/2023/) Till 24/1/21
-  - C 24/1/6 √
-  - Arrays 24/1/6√
-  - Algorithm 24/1/7 √
-  - Memory 24/1/13√
-  - python, AI 24/1/14√
-  - data structure, 24/1/16√
-  - SQL, security, 24/1/20√
+  -<title name="fk yes" />   
+
 - Tools
   - [Overleaf](https://www.overleaf.com/project) 24/1/5 √
   - [whimsica](https://whimsical.com/my-files-9rnjLJRKJSKRn97wGyiBq9) 24/1/5 √
