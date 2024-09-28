@@ -11,8 +11,9 @@ Welcome to my Github page! I am Tomandjerry1995 and I am chemical engineering pr
 
 
 #### 🌱 Things I am currently working on: 
-- Start building my programing world structure  
-- Program by VBA as a process engineer
+Now that I'm 29, I hope that before I die I'll be satisfied with what I've done with my life.
+
+- Works now
 - Paticitipating in [[PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning))
 
 - Classes
