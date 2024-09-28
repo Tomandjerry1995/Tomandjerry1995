@@ -13,7 +13,7 @@ Welcome to my Github page! I am Tomandjerry1995 and I am chemical engineering pr
 #### 🌱 Things I am currently working on: 
 - Start building my programing world structure  
 - Program by VBA as a process engineer
-- Paticitipating in [[PKUFlyingPig/cs-self-learning](https://github.com/jackfrued/Python-100-Days)](https://github.com/PKUFlyingPig/cs-self-learning/blob/master/docs/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
+- Paticitipating in [[PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning))
 
 - Classes
 - [Harvard CS50](https://cs50.harvard.edu/x/2023/) 24/1/22√
